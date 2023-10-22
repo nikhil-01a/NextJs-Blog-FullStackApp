@@ -1,6 +1,6 @@
 # NextJS-App
 
-This is my first blog post app built using NEXT JS
+Blog post app built using NEXT JS
 
 From one of the topics in this tutorial: https://nextjs.org/learn/foundations/about-nextjs
 
